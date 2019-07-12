@@ -83,7 +83,9 @@ input, select, textarea {
 		}
 
 	}
-
+	img.logo {
+	    max-width: 800px;
+	}
 	html {
 		box-sizing: border-box;
 	}
